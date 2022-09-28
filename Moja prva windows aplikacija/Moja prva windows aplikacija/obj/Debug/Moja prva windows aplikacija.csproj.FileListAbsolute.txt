@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\Moja prva windows aplikacija\Moja prva windows aplikacija\bin\Debug\Moja prva windows aplikacija.exe.config
+C:\Users\ucenik\source\repos\Moja prva windows aplikacija\Moja prva windows aplikacija\bin\Debug\Moja prva windows aplikacija.exe
+C:\Users\ucenik\source\repos\Moja prva windows aplikacija\Moja prva windows aplikacija\bin\Debug\Moja prva windows aplikacija.pdb
+C:\Users\ucenik\source\repos\Moja prva windows aplikacija\Moja prva windows aplikacija\obj\Debug\Moja prva windows aplikacija.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Moja prva windows aplikacija\Moja prva windows aplikacija\obj\Debug\Moja prva windows aplikacija.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Moja prva windows aplikacija\Moja prva windows aplikacija\obj\Debug\Moja_prva_windows_aplikacija.Form1.resources
+C:\Users\ucenik\source\repos\Moja prva windows aplikacija\Moja prva windows aplikacija\obj\Debug\Moja_prva_windows_aplikacija.Properties.Resources.resources
+C:\Users\ucenik\source\repos\Moja prva windows aplikacija\Moja prva windows aplikacija\obj\Debug\Moja prva windows aplikacija.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\Moja prva windows aplikacija\Moja prva windows aplikacija\obj\Debug\Moja prva windows aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Moja prva windows aplikacija\Moja prva windows aplikacija\obj\Debug\Moja prva windows aplikacija.exe
+C:\Users\ucenik\source\repos\Moja prva windows aplikacija\Moja prva windows aplikacija\obj\Debug\Moja prva windows aplikacija.pdb
